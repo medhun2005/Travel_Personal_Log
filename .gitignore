@@ -1,0 +1,32 @@
+# Node modules (React)
+node_modules/
+
+# Environment files
+.env
+*.env
+
+# Python cache and virtual environment
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+
+# Database files (if any)
+*.sqlite3
+instance/
+
+# Build files
+build/
+dist/
+
+# Log files
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
